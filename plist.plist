@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <!-- httpªÚ’ﬂhttps¡¥Ω”µƒipaŒƒº˛µÿ÷∑ -->
+     <!-- httpÊàñËÄÖhttpsÈìæÊé•ÁöÑipaÊñá‰ª∂Âú∞ÂùÄ -->
      <string>http://117.50.46.205/ipadown/rcy.ipa</string>
     </dict>
     <dict>
@@ -21,7 +21,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- httpªÚ’ﬂhttps¡¥Ω”µƒÕº∆¨µÿ÷∑£¨ø…÷±Ω” π”√app∂‘”¶µƒicon£®∑÷±Ê¬ √ª«ø÷∆“™«Û£© -->
+     <!-- httpÊàñËÄÖhttpsÈìæÊé•ÁöÑÂõæÁâáÂú∞ÂùÄÔºåÂèØÁõ¥Êé•‰ΩøÁî®appÂØπÂ∫îÁöÑiconÔºàÂàÜËæ®ÁéáÊ≤°Âº∫Âà∂Ë¶ÅÊ±ÇÔºâ -->
      <string>http://x5.justep.com/apps/x5.png</string>
     </dict>
     <dict>
@@ -30,23 +30,23 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- httpªÚ’ﬂhttps¡¥Ω”µƒ–°Õº∆¨µÿ÷∑£¨ø…÷±Ω” π”√app∂‘”¶µƒicon£®∑÷±Ê¬ √ª«ø÷∆“™«Û£© -->
+     <!-- httpÊàñËÄÖhttpsÈìæÊé•ÁöÑÂ∞èÂõæÁâáÂú∞ÂùÄÔºåÂèØÁõ¥Êé•‰ΩøÁî®appÂØπÂ∫îÁöÑiconÔºàÂàÜËæ®ÁéáÊ≤°Âº∫Âà∂Ë¶ÅÊ±ÇÔºâ -->
      <string>http://x5.justep.com/apps/x5.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <!-- BundleID£¨æÕ «–¬Ω®app ±µƒ∞¸√˚ -->
-    <string>◊Õ¥®»À≤≈‘∆</string>
+    <!-- BundleIDÔºåÂ∞±ÊòØÊñ∞Âª∫appÊó∂ÁöÑÂåÖÂêç -->
+    <string>com.bet.mbetx</string>
     <key>bundle-version</key>
-    <!-- ∞Ê±æ∫≈ -->
-    <string>5.3.2</string>
+    <!-- ÁâàÊú¨Âè∑ -->
+    <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <!-- ∞≤◊∞app ±µƒÃ· æ–≈œ¢ -->
-    <string>»À≤≈‘∆œ¬‘ÿ</string>
+    <!-- ÂÆâË£ÖappÊó∂ÁöÑÊèêÁ§∫‰ø°ÊÅØ -->
+    <string>‰∫∫Êâç‰∫ë‰∏ãËΩΩ</string>
    </dict>
   </dict>
  </array>
